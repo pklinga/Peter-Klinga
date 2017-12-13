@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background: url("felhok.jpg") fixed no-repeat;
+  background-size: cover;
+}
+header {
+  width: 25%;
+  float: left;
+}
+
+header img {
+  height: 90%;
+  width: 35%;
+  border: 3px solid yellow;
+  border-radius: 10%;
+  margin-right: 5%;
+  float: left;
+}
+
+.nev {
+  color: yellow;
+  float: left;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1, h2 {
+  margin-left: 0px;
+}
+
+.sidebar {
+  width: 25%;
+  margin-top: 180px;
+}
+
+.sidebar a {
+    padding: 8px 8px 80px 32px;
+    font-size: 25px;
+    color: darkblue;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+   color: red;
+ }
+
+#kapcsolat {
+  padding-bottom: 0px;
+}
+
+#bemutatkozas {
+  width: 75%;
+  height: 40vh;
+  margin-top: 250px;
+  float: left;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#fenykepek {
+  width: 75%;
+  height: 40vh;
+  margin-top: 250px;
+  float: left;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#kapcsolatok {
+  width: 75%;
+  height: 40vh;
+  margin-top: 250px;
+  float: left;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+table {
+  margin: 10px 100px 0px 0px;
+  float: right;
+}
+
+caption, td, tr {
+  border: 1px solid black;
+}
+
+caption {
+  height: 50px;
+  font-size: 40px;
+}
+
+td {
+  width: 120px;
+  height: 90px;
+  font-weight: bold;
+}
+
+.napok {
+  text-align: center;
+  height: 5px;
+  font-size: 20px;
+}
+
+img {
+  width: 80%;
+  height: 80%;
+}
+
+table img:hover {
+  transform: scale(1.5);
+}
