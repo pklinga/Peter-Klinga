@@ -85,6 +85,15 @@ h1, h2 {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+#kapcsolatok a {
+  text-decoration: none;
+  color: blue;
+}
+
+#kapcsolatok a:hover {
+  color:yellow;
+}
+
 table {
   margin: 10px 100px 0px 0px;
   float: right;
