@@ -167,3 +167,13 @@ table img:hover {
   padding: .1rem 0.1rem;
   border: 1px solid #000;
 }
+
+.button-nav-e:hover {
+  background-color: yellow;
+  color: red;
+}
+
+.button-nav-k:hover {
+  background-color: yellow;
+  color: red;
+}
