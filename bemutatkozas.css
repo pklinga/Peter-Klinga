@@ -177,3 +177,11 @@ table img:hover {
   background-color: yellow;
   color: red;
 }
+
+footer img {
+  width: 12vw;
+  border-radius: 5%;
+  margin-top: 0px;
+  margin-left: 170px;
+  padding-top: 0px;
+}
