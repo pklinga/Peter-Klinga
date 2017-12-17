@@ -147,3 +147,23 @@ table img:hover {
 .btn:hover {
   background-color: red;
 }
+
+.button-nav-e {
+  display: inline-block;
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #000;
+  padding: .1rem 0.1rem;
+  border: 1px solid #000;
+}
+
+.button-nav-k {
+  display: inline-block;
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #000;
+  padding: .1rem 0.1rem;
+  border: 1px solid #000;
+}
