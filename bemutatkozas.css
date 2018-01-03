@@ -178,12 +178,12 @@ table img:hover {
   color: red;
 }
 
-footer img {
-  width: 12vw;
-  border-radius: 5%;
-  margin-top: 0px;
-  margin-left: 170px;
-  padding-top: 0px;
+#clock {
+  font-family: "Courgette", cursive;
+  font-size: 50px;
+  text-align: left;
+  margin-left: 75px;
+  margin-top: 50px;
 }
 
 .hvr-float-shadow {
