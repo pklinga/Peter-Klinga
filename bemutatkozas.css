@@ -183,7 +183,15 @@ table img:hover {
   font-size: 50px;
   text-align: left;
   margin-left: 75px;
-  margin-top: 50px;
+  margin-top: 20px;
+}
+
+#day {
+  font-family: "Courgette", cursive;
+  font-size: 50px;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 20px;
 }
 
 .hvr-float-shadow {
