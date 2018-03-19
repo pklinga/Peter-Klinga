@@ -73,6 +73,8 @@ h1, h2 {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+
+
 #kapcsolatok {
   width: 75%;
   height: 40vh;
@@ -122,6 +124,14 @@ td {
 img {
   width: 80%;
   height: 80%;
+}
+
+#fenykepek img {
+  height: 100%;
+  width: 30%;
+  border: 3px solid white;
+  border-radius: 10%;
+  margin-right: 5%;
 }
 
 table img:hover {
