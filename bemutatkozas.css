@@ -52,13 +52,13 @@ h1, h2 {
 }
 
 #bemutatkozas {
-  width: 75%;
-  height: 40vh;
+  width: 1%;
+  height: 1vh;
   margin-top: 1px;
   float: left;
   text-align: center;
   color: black;
-  font-size: 25px;
+  font-size: 1px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
